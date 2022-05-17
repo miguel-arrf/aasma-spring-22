@@ -3,3 +3,4 @@ ma-gym
 pygame
 matplotlib
 scipy
+pyglet==1.5.11
